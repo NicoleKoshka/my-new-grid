@@ -51,10 +51,12 @@ body {
     background-color: #2d8d88;
 }
 #div6 {
-    grid-column: 7/12;
+    grid-column: 4/7;
     grid-row: 27/38;
     background-color: #df3ebc;
 }
 #div7 {
+    grid-column: 7/12;
+    grid-row: 27/38;
     background-color: #83d8d1;
 }
