@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="valentines.css">
+        <title>Valentines</title>
+    </head>
+    <body>
+        <div id="grid-container1">
+            <h2>The Types of Love Languages</h2>
+            <div id="grid-container2">
+                <div class="text">Words of Affirmation</div>
+                <div class="text2">Acts of Service</div>
+                <div class="text3">Physical Touch</div>
+                <div class="text4">Quality Time</div>
+                <div class="text5">Recieving Gifts</div>
+                <img src="https://i.imgur.com/oq0O62N.gif" class="img"
+                width="600"
+                height="400">
+                <img src="service__1_-removebg-preview (1).png" class="img2"
+                width="600"
+                height="400">
+                <img src="cuddlybears-removebg-preview (1).png" class="img3"
+                height="335"
+                width="500">
+                <img class="img4" src="quality_time_kittens-removebg-preview (1).png"
+                height="370"
+                width="600">
+                <img src="bomb-removebg-preview (1).png" class="img5"
+                height="335"
+                width="500">
+                <div class="text6">Valentines is day meant for celebrating love, please appreciate your family and friends!
+                    Don't forget to tell them that you love them to the moon and back!
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
